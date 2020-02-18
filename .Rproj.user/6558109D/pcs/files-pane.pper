@@ -1,0 +1,9 @@
+{
+    "path" : "~/datatable_practice",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582062473900.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F4A23D75",
+    "lastKnownWriteTime" : 1582066175,
+    "last_content_update" : 1582066175698,
+    "path" : "~/datatable_practice/intro_to_datatable.R",
+    "project_path" : "intro_to_datatable.R",
+    "properties" : {
+        "cursorPosition" : "76,9",
+        "scrollLine" : "57",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
